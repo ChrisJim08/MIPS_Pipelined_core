@@ -1,1 +1,3 @@
 # MIPS_Pipelined_core
+*WORK IN PROGRESS*
+*NEED TO MOVE FROM GITLAB*
